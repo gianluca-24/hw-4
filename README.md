@@ -6,6 +6,6 @@ This is the repository containing the solutions for the homework 4 of the group 
 - Omid Ghorbani
 
 The following repository is organized in this way:
-- `.ipynb` is the main notebook containing the solutions of our homework;
+- `HW4.ipynb` is the main notebook containing the solutions for the excercises 1, 2, 3 and AQ;
 - The file `cl_question.sh` contains the code used to solve the command line question;
 - The file `clq_output.png` contains the output of the clq question;
