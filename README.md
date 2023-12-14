@@ -8,4 +8,4 @@ This is the repository containing the solutions for the homework 4 of the group 
 The following repository is organized in this way:
 - `.ipynb` is the main notebook containing the solutions of our homework;
 - The file `cl_question.sh` contains the code used to solve the command line question;
-- The file 
+- The file `clq_output.png` contains the output of the clq question;
